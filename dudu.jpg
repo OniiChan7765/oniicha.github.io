@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <meta property="og:image" content="https://cdn.discordapp.com/attachments/922600774951911444/970467168338706472/michael-jackson-60fps.gif">
+        <meta property="og:type" content="video.other">
+        <meta property="og:video:url" content="https://cdn.discordapp.com/attachments/934542017810288650/970467452741877811/Kanye_West_-_Good_Morning_1.mp4">
+        <meta property="og:video:height" content="160">
+        <meta property="og:video:width" content="90">
+    </head>
+    <body>
+        <img src="https://cdn.discordapp.com/attachments/934542017810288650/970467527316602930/unknown.png">
+    </body>
+</html>
